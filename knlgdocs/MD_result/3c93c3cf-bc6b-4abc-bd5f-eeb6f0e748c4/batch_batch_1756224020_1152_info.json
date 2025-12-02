@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_1756224020_1152",
+  "mineru_task_id": "3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4",
+  "document_id": 1152,
+  "created_at": "2025-08-26T22:37:08",
+  "retrieved_at": null,
+  "status": "active",
+  "file_url": "https://mineru.oss-cn-shanghai.aliyuncs.com/api-upload/extract/2025-08-27/3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4/cac9b6dc-8a8d-4559-a70a-ff7186f597d4.docx?Expires=1756310419&OSSAccessKeyId=LTAI5t9nGwatk85zetzojXbn&Signature=231LUOS%2FHeADUykm0leh7WjTkek%3D",
+  "document": {
+    "id": 1152,
+    "path": "全量数据集_1138个文件/产研部/docx/程序设计在线作业代码不规范检测方法及应用.docx",
+    "name": "程序设计在线作业代码不规范检测方法及应用",
+    "extension": "docx",
+    "size": 11397,
+    "modified_time": "2025-08-24T00:04:43",
+    "is_parsed": 1,
+    "parsed_at": "2025-08-27T00:00:24"
+  }
+}

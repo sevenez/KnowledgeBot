@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_1756224020_1221",
+  "mineru_task_id": "3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4",
+  "document_id": 1221,
+  "created_at": "2025-08-26T22:37:08",
+  "retrieved_at": null,
+  "status": "active",
+  "file_url": "https://mineru.oss-cn-shanghai.aliyuncs.com/api-upload/extract/2025-08-27/3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4/ce6660be-fb0c-4ef5-903e-413229c8ff1f.docx?Expires=1756310419&OSSAccessKeyId=LTAI5t9nGwatk85zetzojXbn&Signature=3EW%2BRK9OL9Zwyp4PXWJfNY8GEyk%3D",
+  "document": {
+    "id": 1221,
+    "path": "全量数据集_1138个文件/公司总部/docx/公司福利一览表.docx",
+    "name": "公司福利一览表",
+    "extension": "docx",
+    "size": 22209,
+    "modified_time": "2025-08-20T23:42:00",
+    "is_parsed": 1,
+    "parsed_at": "2025-08-27T00:00:41"
+  }
+}

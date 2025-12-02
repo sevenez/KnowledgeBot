@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_1756224020_1139",
+  "mineru_task_id": "3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4",
+  "document_id": 1139,
+  "created_at": "2025-08-26T22:37:08",
+  "retrieved_at": null,
+  "status": "active",
+  "file_url": "https://mineru.oss-cn-shanghai.aliyuncs.com/api-upload/extract/2025-08-27/3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4/a2ff1bc6-d83a-4f76-ac0b-a00d45d096bf.docx?Expires=1756310419&OSSAccessKeyId=LTAI5t9nGwatk85zetzojXbn&Signature=xHhI8uBdjctKsYhNwayn5QRq4EQ%3D",
+  "document": {
+    "id": 1139,
+    "path": "全量数据集_1138个文件/产研部/docx/9组_企业知识库智能问答系统PRD.docx",
+    "name": "9组_企业知识库智能问答系统PRD",
+    "extension": "docx",
+    "size": 670892,
+    "modified_time": "2025-08-20T18:33:42",
+    "is_parsed": 1,
+    "parsed_at": "2025-08-27T00:00:22"
+  }
+}

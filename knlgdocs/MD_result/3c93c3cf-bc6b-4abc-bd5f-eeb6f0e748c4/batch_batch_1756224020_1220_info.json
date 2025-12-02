@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_1756224020_1220",
+  "mineru_task_id": "3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4",
+  "document_id": 1220,
+  "created_at": "2025-08-26T22:37:08",
+  "retrieved_at": null,
+  "status": "active",
+  "file_url": "https://mineru.oss-cn-shanghai.aliyuncs.com/api-upload/extract/2025-08-27/3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4/1b669c38-1660-485e-9cdf-647fa65b80c7.docx?Expires=1756310419&OSSAccessKeyId=LTAI5t9nGwatk85zetzojXbn&Signature=F0Zn1agVeYPuZdAQ7wMU2AocYVw%3D",
+  "document": {
+    "id": 1220,
+    "path": "全量数据集_1138个文件/公司总部/docx/《XX公司202X年度战略规划》.docx",
+    "name": "《XX公司202X年度战略规划》",
+    "extension": "docx",
+    "size": 11528,
+    "modified_time": "2025-08-24T01:32:30",
+    "is_parsed": 1,
+    "parsed_at": "2025-08-27T00:00:41"
+  }
+}

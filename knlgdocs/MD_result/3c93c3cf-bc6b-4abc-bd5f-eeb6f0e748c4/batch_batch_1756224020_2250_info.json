@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_1756224020_2250",
+  "mineru_task_id": "3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4",
+  "document_id": 2250,
+  "created_at": "2025-08-26T22:37:10",
+  "retrieved_at": null,
+  "status": "active",
+  "file_url": "https://mineru.oss-cn-shanghai.aliyuncs.com/api-upload/extract/2025-08-27/3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4/3a505548-a51f-4884-b6ec-e0800b97766f.docx?Expires=1756310419&OSSAccessKeyId=LTAI5t9nGwatk85zetzojXbn&Signature=VHtzl0%2FjgkFjO3XcT8Y6vTND5NM%3D",
+  "document": {
+    "id": 2250,
+    "path": "全量数据集_1138个文件/销售部/docx/销售提成方案.docx",
+    "name": "销售提成方案",
+    "extension": "docx",
+    "size": 41507,
+    "modified_time": "2025-08-24T00:54:18",
+    "is_parsed": 1,
+    "parsed_at": "2025-08-27T00:00:42"
+  }
+}

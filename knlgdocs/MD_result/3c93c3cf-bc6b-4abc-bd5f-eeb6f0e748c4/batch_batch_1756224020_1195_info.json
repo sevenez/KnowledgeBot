@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_1756224020_1195",
+  "mineru_task_id": "3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4",
+  "document_id": 1195,
+  "created_at": "2025-08-26T22:37:08",
+  "retrieved_at": null,
+  "status": "active",
+  "file_url": "https://mineru.oss-cn-shanghai.aliyuncs.com/api-upload/extract/2025-08-27/3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4/d47de553-d642-42c3-9a54-53c0307f802a.pdf?Expires=1756310419&OSSAccessKeyId=LTAI5t9nGwatk85zetzojXbn&Signature=SUL7A6%2BwU7%2F8ty1mxd9Q42EPJEo%3D",
+  "document": {
+    "id": 1195,
+    "path": "全量数据集_1138个文件/产研部/pdf/中文命名实体识别研究方法综述.pdf",
+    "name": "中文命名实体识别研究方法综述",
+    "extension": "pdf",
+    "size": 1528335,
+    "modified_time": "2025-08-24T00:34:16",
+    "is_parsed": 1,
+    "parsed_at": "2025-08-27T00:00:30"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_1756224020_1151",
+  "mineru_task_id": "3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4",
+  "document_id": 1151,
+  "created_at": "2025-08-26T22:37:08",
+  "retrieved_at": null,
+  "status": "active",
+  "file_url": "https://mineru.oss-cn-shanghai.aliyuncs.com/api-upload/extract/2025-08-27/3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4/9f504091-55e1-4d1d-b704-38cda0287edb.docx?Expires=1756310419&OSSAccessKeyId=LTAI5t9nGwatk85zetzojXbn&Signature=Z%2F5EEm9AXG0Wtx6a0FpXu1bY%2Bgw%3D",
+  "document": {
+    "id": 1151,
+    "path": "全量数据集_1138个文件/产研部/docx/教育大模型的发展现状、创新架构及应用展望.docx",
+    "name": "教育大模型的发展现状、创新架构及应用展望",
+    "extension": "docx",
+    "size": 18065,
+    "modified_time": "2025-08-24T00:18:20",
+    "is_parsed": 1,
+    "parsed_at": "2025-08-27T00:00:23"
+  }
+}

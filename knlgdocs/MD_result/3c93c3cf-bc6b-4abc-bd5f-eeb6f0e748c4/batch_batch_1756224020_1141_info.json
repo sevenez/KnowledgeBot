@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_1756224020_1141",
+  "mineru_task_id": "3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4",
+  "document_id": 1141,
+  "created_at": "2025-08-26T22:37:08",
+  "retrieved_at": null,
+  "status": "active",
+  "file_url": "https://mineru.oss-cn-shanghai.aliyuncs.com/api-upload/extract/2025-08-27/3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4/309efb62-4c39-4190-a498-a379b39519c6.docx?Expires=1756310419&OSSAccessKeyId=LTAI5t9nGwatk85zetzojXbn&Signature=IInd%2Fseni1CxvkljCjr5TaliPTc%3D",
+  "document": {
+    "id": 1141,
+    "path": "全量数据集_1138个文件/产研部/docx/中国大模型行业发展现状调查、竞争格局分析及未来前景预测报告.docx",
+    "name": "中国大模型行业发展现状调查、竞争格局分析及未来前景预测报告",
+    "extension": "docx",
+    "size": 18224,
+    "modified_time": "2025-08-24T00:18:16",
+    "is_parsed": 1,
+    "parsed_at": "2025-08-27T00:00:22"
+  }
+}

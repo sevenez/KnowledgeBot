@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_1756224020_1147",
+  "mineru_task_id": "3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4",
+  "document_id": 1147,
+  "created_at": "2025-08-26T22:37:08",
+  "retrieved_at": null,
+  "status": "active",
+  "file_url": "https://mineru.oss-cn-shanghai.aliyuncs.com/api-upload/extract/2025-08-27/3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4/945ee690-b39f-4b38-8985-f21918b489d5.docx?Expires=1756310419&OSSAccessKeyId=LTAI5t9nGwatk85zetzojXbn&Signature=d1oKrsHiJuUJGKUBY2ebyKx%2FM7E%3D",
+  "document": {
+    "id": 1147,
+    "path": "全量数据集_1138个文件/产研部/docx/基于VR技术的房地产展示系统设计与开发.docx",
+    "name": "基于VR技术的房地产展示系统设计与开发",
+    "extension": "docx",
+    "size": 38409,
+    "modified_time": "2025-08-24T00:46:38",
+    "is_parsed": 1,
+    "parsed_at": "2025-08-27T00:00:23"
+  }
+}

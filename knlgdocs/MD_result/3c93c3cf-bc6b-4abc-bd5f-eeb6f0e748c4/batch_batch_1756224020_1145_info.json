@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_1756224020_1145",
+  "mineru_task_id": "3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4",
+  "document_id": 1145,
+  "created_at": "2025-08-26T22:37:08",
+  "retrieved_at": null,
+  "status": "active",
+  "file_url": "https://mineru.oss-cn-shanghai.aliyuncs.com/api-upload/extract/2025-08-27/3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4/00707e9e-3e5d-409f-a362-e07b5102e2d7.docx?Expires=1756310419&OSSAccessKeyId=LTAI5t9nGwatk85zetzojXbn&Signature=bya33t4MHgGz7Wr5D8bT7%2B3LxKs%3D",
+  "document": {
+    "id": 1145,
+    "path": "全量数据集_1138个文件/产研部/docx/命名实体识别研究综述.docx",
+    "name": "命名实体识别研究综述",
+    "extension": "docx",
+    "size": 13681,
+    "modified_time": "2025-08-24T00:34:12",
+    "is_parsed": 1,
+    "parsed_at": "2025-08-27T00:00:22"
+  }
+}

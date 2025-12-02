@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_1756224020_1148",
+  "mineru_task_id": "3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4",
+  "document_id": 1148,
+  "created_at": "2025-08-26T22:37:08",
+  "retrieved_at": null,
+  "status": "active",
+  "file_url": "https://mineru.oss-cn-shanghai.aliyuncs.com/api-upload/extract/2025-08-27/3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4/01487388-5c0f-48af-aee7-c307348a1dda.docx?Expires=1756310419&OSSAccessKeyId=LTAI5t9nGwatk85zetzojXbn&Signature=6aNovXbTVIUzK1WDvHBB2fF73BQ%3D",
+  "document": {
+    "id": 1148,
+    "path": "全量数据集_1138个文件/产研部/docx/大模型的背景与现状问题.docx",
+    "name": "大模型的背景与现状问题",
+    "extension": "docx",
+    "size": 15550,
+    "modified_time": "2025-08-24T00:18:23",
+    "is_parsed": 1,
+    "parsed_at": "2025-08-27T00:00:23"
+  }
+}

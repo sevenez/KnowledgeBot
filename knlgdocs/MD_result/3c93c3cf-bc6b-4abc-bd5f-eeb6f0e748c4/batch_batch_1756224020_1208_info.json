@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_1756224020_1208",
+  "mineru_task_id": "3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4",
+  "document_id": 1208,
+  "created_at": "2025-08-26T22:37:08",
+  "retrieved_at": null,
+  "status": "active",
+  "file_url": "https://mineru.oss-cn-shanghai.aliyuncs.com/api-upload/extract/2025-08-27/3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4/7fae3499-dc63-4b17-8c8d-4d0bb1b82bbb.pdf?Expires=1756310419&OSSAccessKeyId=LTAI5t9nGwatk85zetzojXbn&Signature=51J4T52TC%2F%2BBj0XpB4Fa9Mt16Pw%3D",
+  "document": {
+    "id": 1208,
+    "path": "全量数据集_1138个文件/产研部/pdf/大模型发展趋势研究1.pdf",
+    "name": "大模型发展趋势研究1",
+    "extension": "pdf",
+    "size": 2423148,
+    "modified_time": "2025-08-24T01:24:44",
+    "is_parsed": 1,
+    "parsed_at": "2025-08-27T00:00:38"
+  }
+}

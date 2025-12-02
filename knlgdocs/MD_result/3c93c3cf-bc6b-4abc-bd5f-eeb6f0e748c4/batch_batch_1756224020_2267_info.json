@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_1756224020_2267",
+  "mineru_task_id": "3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4",
+  "document_id": 2267,
+  "created_at": "2025-08-26T22:37:10",
+  "retrieved_at": null,
+  "status": "active",
+  "file_url": "https://mineru.oss-cn-shanghai.aliyuncs.com/api-upload/extract/2025-08-27/3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4/c7d68500-1451-4980-9d58-42e67b4a53dd.pdf?Expires=1756310419&OSSAccessKeyId=LTAI5t9nGwatk85zetzojXbn&Signature=380rFzqv7s4aui6g0qaIyAqUXAk%3D",
+  "document": {
+    "id": 2267,
+    "path": "全量数据集_1138个文件/销售部/pdf/软件开发基本原则.pdf",
+    "name": "软件开发基本原则",
+    "extension": "pdf",
+    "size": 1047261,
+    "modified_time": "2025-08-24T00:51:15",
+    "is_parsed": 1,
+    "parsed_at": "2025-08-27T00:00:44"
+  }
+}

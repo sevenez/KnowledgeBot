@@ -1,0 +1,8 @@
+pandas>=1.5.0
+numpy>=1.23.0
+torch>=2.0.0
+transformers>=4.30.0
+pymysql>=1.0.3
+psycopg2-binary>=2.9.5
+pymilvus>=2.2.8
+qdrant-client>=1.1.1

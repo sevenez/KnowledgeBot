@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_1756224020_1186",
+  "mineru_task_id": "3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4",
+  "document_id": 1186,
+  "created_at": "2025-08-26T22:37:08",
+  "retrieved_at": null,
+  "status": "active",
+  "file_url": "https://mineru.oss-cn-shanghai.aliyuncs.com/api-upload/extract/2025-08-27/3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4/a5e44384-7025-4396-9a75-d82cab1b2c81.pdf?Expires=1756310419&OSSAccessKeyId=LTAI5t9nGwatk85zetzojXbn&Signature=JP6c1iYRHmrhGky66JGzIH1wYDA%3D",
+  "document": {
+    "id": 1186,
+    "path": "全量数据集_1138个文件/产研部/pdf/2023年国内大模型发展综述与趋势研判.pdf",
+    "name": "2023年国内大模型发展综述与趋势研判",
+    "extension": "pdf",
+    "size": 2423148,
+    "modified_time": "2025-08-24T00:18:07",
+    "is_parsed": 1,
+    "parsed_at": "2025-08-27T00:00:25"
+  }
+}

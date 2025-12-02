@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_1756224020_2264",
+  "mineru_task_id": "3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4",
+  "document_id": 2264,
+  "created_at": "2025-08-26T22:37:10",
+  "retrieved_at": null,
+  "status": "active",
+  "file_url": "https://mineru.oss-cn-shanghai.aliyuncs.com/api-upload/extract/2025-08-27/3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4/bedbba35-e301-4671-bd92-d8991b075bf3.pdf?Expires=1756310419&OSSAccessKeyId=LTAI5t9nGwatk85zetzojXbn&Signature=KvpbGqmIXXyeu7sMZBKzR9luH5c%3D",
+  "document": {
+    "id": 2264,
+    "path": "全量数据集_1138个文件/销售部/pdf/大客户销售与策略.pdf",
+    "name": "大客户销售与策略",
+    "extension": "pdf",
+    "size": 214088,
+    "modified_time": "2025-08-24T00:58:56",
+    "is_parsed": 1,
+    "parsed_at": "2025-08-27T00:00:43"
+  }
+}

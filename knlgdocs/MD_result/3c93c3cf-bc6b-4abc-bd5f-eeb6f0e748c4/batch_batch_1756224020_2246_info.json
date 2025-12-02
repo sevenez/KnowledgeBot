@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_1756224020_2246",
+  "mineru_task_id": "3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4",
+  "document_id": 2246,
+  "created_at": "2025-08-26T22:37:10",
+  "retrieved_at": null,
+  "status": "active",
+  "file_url": "https://mineru.oss-cn-shanghai.aliyuncs.com/api-upload/extract/2025-08-27/3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4/738d607f-268c-45b2-9ff4-ae4ade97fd4d.docx?Expires=1756310419&OSSAccessKeyId=LTAI5t9nGwatk85zetzojXbn&Signature=waLJmdkuAGOfn8gLMS7hIMGIp6I%3D",
+  "document": {
+    "id": 2246,
+    "path": "全量数据集_1138个文件/销售部/docx/策略销售(全篇)(1).docx",
+    "name": "策略销售(全篇)(1)",
+    "extension": "docx",
+    "size": 96650,
+    "modified_time": "2025-08-24T00:55:12",
+    "is_parsed": 1,
+    "parsed_at": "2025-08-27T00:00:41"
+  }
+}

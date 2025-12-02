@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_1756224020_1215",
+  "mineru_task_id": "3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4",
+  "document_id": 1215,
+  "created_at": "2025-08-26T22:37:08",
+  "retrieved_at": null,
+  "status": "active",
+  "file_url": "https://mineru.oss-cn-shanghai.aliyuncs.com/api-upload/extract/2025-08-27/3c93c3cf-bc6b-4abc-bd5f-eeb6f0e748c4/3b70431a-bfa4-4fc5-9608-083de69f3114.pdf?Expires=1756310419&OSSAccessKeyId=LTAI5t9nGwatk85zetzojXbn&Signature=j7ZHNhkMJfbr2jpyPt8o8ph2nWo%3D",
+  "document": {
+    "id": 1215,
+    "path": "全量数据集_1138个文件/产研部/pdf/软件开发行业代码规范研究.pdf",
+    "name": "软件开发行业代码规范研究",
+    "extension": "pdf",
+    "size": 823670,
+    "modified_time": "2025-08-24T00:02:29",
+    "is_parsed": 1,
+    "parsed_at": "2025-08-27T00:00:41"
+  }
+}
